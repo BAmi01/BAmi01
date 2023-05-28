@@ -1,6 +1,6 @@
 <!-- <h1> This is my readme </h1> // -->
 <!--    BANNER    -->
-<img src="purple-banner-blue-logo-bigger.png" width="100%"> 
+<img src="2.png" width="100%"> 
 
 <!--    PERSONAL LINKS    -->
 <p align="center">
