@@ -18,7 +18,7 @@
 <!--    BLURB    -->
 ### Konnichcwa, I'm Bee ✌🏾✨ 
 
-My name is Bee. I'm from the d(m)v area and I'm a Cloud DevOps Engineer who's passionate all things tech. From cloud, to AI, and design any outlet that allows me to be creative and forward-thinking I'm all for. I love learning new technologies that allow me to upskill and grow professionally. I'm here to experiment and have fun... Welcome to my playground.<br><br>
+My name is Bee. I'm from the d(m)v area and I'm a Cloud DevOps Engineer who's passionate about all things tech. From cloud, to AI, and design any outlet that allows me to be creative and forward-thinking I'm all for. I love learning new technologies that allow me to upskill and grow professionally. I'm here to experiment and have fun... Welcome to my playground.<br><br>
 
 <!--    TECHNOLOGIES    -->
 <div align="center">
